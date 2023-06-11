@@ -1,4 +1,5 @@
 # AI-Chat-Ultra
+https://chat.wzunjh.top
 # 上线日期：2023-6-4
 # 项目成员：@wzuhjh、@kadxy
 # 功能介绍：
