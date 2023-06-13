@@ -1,5 +1,5 @@
 # AI-Chat-Ultra
-[点此访问]([https://taio.app/cn/](https://chat.wzunjh.top))
+[点此访问](https://chat.wzunjh.top))
 # 上线日期：2023-6-4
 # 项目成员：@wzuhjh、@kadxy
 # 功能介绍：
