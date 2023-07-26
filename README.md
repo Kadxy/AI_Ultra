@@ -20,7 +20,6 @@
   "message": "concurrent error, please try again later",
   
   "data": null
-  
 }
 '''
 ### 登录失效：请退出登录后重新登录
