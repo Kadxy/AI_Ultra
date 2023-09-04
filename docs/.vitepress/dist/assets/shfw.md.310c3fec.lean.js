@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,Q as r}from"./chunks/framework.385ac4c3.js";const u=JSON.parse('{"title":"售后服务","description":"","frontmatter":{},"headers":[],"relativePath":"shfw.md","filePath":"shfw.md"}'),o={name:"shfw.md"},s=r("",8),i=[s];function n(l,h,c,p,d,_){return t(),e("div",null,i)}const m=a(o,[["render",n]]);export{u as __pageData,m as default};

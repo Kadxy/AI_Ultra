@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.385ac4c3.js";const m=JSON.parse('{"title":"问题排查","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api-d.md","filePath":"guide/api-d.md"}'),s={name:"guide/api-d.md"},i=o("",4),c=[i];function r(d,l,n,_,p,h){return e(),t("div",null,c)}const f=a(s,[["render",r]]);export{m as __pageData,f as default};

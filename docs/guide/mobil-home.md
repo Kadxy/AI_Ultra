@@ -1,0 +1,25 @@
+---
+layout: home
+title: 移动端欢迎页
+hero:
+  name: "AI Ultra"
+  text: "智能对话平台"
+  
+  actions:
+    - theme: brand
+      text: 立即体验
+      link: http://chat.aiutra.com
+    - theme: alt
+      text: 安卓App
+      link: https://tuchuang111025.oss-cn-shenzhen.aliyuncs.com/AI%20Ultra%20v5.apk
+
+features:
+  - icon: 🔮
+    title: 对话&绘图
+    details: 对话/写作/代码/翻译/工作...</br>动漫/艺术/写实/国潮/人像...
+
+  - icon: 📚
+    title: 进阶使用手册
+    link: /guide/hello/
+    linkText: 立即阅读
+---

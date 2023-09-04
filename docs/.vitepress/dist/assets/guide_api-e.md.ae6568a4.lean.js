@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as d,Q as e}from"./chunks/framework.385ac4c3.js";const m=JSON.parse('{"title":"统一定价","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api-e.md","filePath":"guide/api-e.md"}'),r={name:"guide/api-e.md"},o=e("",7),i=[o];function s(c,h,l,p,n,_){return a(),d("div",null,i)}const u=t(r,[["render",s]]);export{m as __pageData,u as default};

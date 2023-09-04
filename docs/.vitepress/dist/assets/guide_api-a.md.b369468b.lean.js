@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as r}from"./chunks/framework.385ac4c3.js";const f=JSON.parse('{"title":"注册登录","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api-a.md","filePath":"guide/api-a.md"}'),o={name:"guide/api-a.md"},i=r("",11),n=[i];function h(l,_,s,d,c,p){return e(),t("div",null,n)}const m=a(o,[["render",h]]);export{f as __pageData,m as default};

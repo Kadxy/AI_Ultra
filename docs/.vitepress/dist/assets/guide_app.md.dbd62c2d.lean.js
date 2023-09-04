@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.385ac4c3.js";const m=JSON.parse('{"title":"下载App","description":"","frontmatter":{},"headers":[],"relativePath":"guide/app.md","filePath":"guide/app.md"}'),r={name:"guide/app.md"},s=o("",11),i=[s];function n(c,l,p,h,d,_){return e(),t("div",null,i)}const f=a(r,[["render",n]]);export{m as __pageData,f as default};

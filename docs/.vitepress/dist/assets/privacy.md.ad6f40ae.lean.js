@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,Q as i}from"./chunks/framework.385ac4c3.js";const k=JSON.parse('{"title":"AI Ultra隐私政策","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),p={name:"privacy.md"},r=i("",32),l=[r];function e(s,n,c,u,_,d){return t(),a("div",null,l)}const g=o(p,[["render",e]]);export{k as __pageData,g as default};
